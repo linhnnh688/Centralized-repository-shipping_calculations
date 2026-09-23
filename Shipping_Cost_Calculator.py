@@ -1,5 +1,4 @@
-# Here is a new update by <linhnnh688>
-# Here is another update by <your GitHub username>
+ # Here is a new update by <linhnnh688>
 
 # Shipping Cost Calculator
 
